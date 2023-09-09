@@ -1,0 +1,9 @@
+Today's session was very useful and interesting.I know something about github but i knew some more concepts and commands related to it.
+overall all session are understandable and useful.
+commands are
+git add .
+git commit -m message
+git push origin name
+git checkout name
+many etc..
+I thank you Mr.Afnan and Mr.Mubashir for presenting and explained such a good helpful topic.
